@@ -1,4 +1,4 @@
-remote_theme: SdtElectronics/jekyll-theme-antarctica
+theme: jekyll-theme-cadre
 title: Loveroise's homepage
 description: My website on github
 lsi: false
