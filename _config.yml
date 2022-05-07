@@ -1,13 +1,15 @@
-theme: jekyll-theme-cadre
+plugins:
+  - jekyll-remote-theme
+remote_theme: slee981/jekyll-theme-cadre
 title: Loveroise's homepage
 description: My website on github
-lsi: false
-safe: true
-source: README.md
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# lsi: false
+# safe: true
+# source: README.md
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
