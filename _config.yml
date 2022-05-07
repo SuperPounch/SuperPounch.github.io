@@ -3,7 +3,7 @@ title: Loveroise's homepage
 description: My website on github
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: README.md
 incremental: false
 highlighter: rouge
 gist:
