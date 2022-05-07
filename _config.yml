@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: SdtElectronics/jekyll-theme-antarctica
 title: Loveroise's homepage
 description: My website on github
 lsi: false
